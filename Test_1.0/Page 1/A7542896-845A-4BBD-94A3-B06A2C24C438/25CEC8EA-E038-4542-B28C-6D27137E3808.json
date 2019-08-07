@@ -36,6 +36,12 @@
       "do_objectID": "B1FA7C9A-D12D-4D6D-AC38-BBD1F21A6E72",
       "overrideName": "977342C2-8E99-409B-8AAE-CF6FB7C4249D_stringValue",
       "value": "Head Title"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D763A8E-53B3-4D16-B090-08D21BC40BB3",
+      "overrideName": "95B9ED17-61FA-4A36-B35D-BFDA01167CEB_stringValue",
+      "value": "Change body."
     }
   ],
   "resizingConstraint": 63,
