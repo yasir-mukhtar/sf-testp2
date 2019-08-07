@@ -31,6 +31,12 @@
   "name": "Modals / Global / Confirmation Multi Line",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1FA7C9A-D12D-4D6D-AC38-BBD1F21A6E72",
+      "overrideName": "977342C2-8E99-409B-8AAE-CF6FB7C4249D_stringValue",
+      "value": "Head Title"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
